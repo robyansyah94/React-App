@@ -5,7 +5,10 @@ import { Navigate } from "react-router";
 
 import React, { useRef, useState } from "react";
 // Import Swiper React components
+
+import FaqComponent from "../components/FaqComponent";
 import { Swiper, SwiperSlide } from "swiper/react";
+
 
 // Import Swiper styles
 import "swiper/css";
@@ -146,6 +149,10 @@ const HomePage = () => {
             </Row>
           </Container>
         </div>
+
+        {/* Section FAQ */}
+        <FaqComponent/>
+        {/* Section FAQ */}
       </div>
   );
 };
