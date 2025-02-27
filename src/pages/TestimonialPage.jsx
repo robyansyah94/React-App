@@ -10,7 +10,7 @@ const TestimonialPage = () => {
         <Container>
           <Row>
             <Col>
-              <h1 className="text-center fw-bold">Semua Testimonila</h1>
+              <h1 className="text-center fw-bold">Semua Testimonial</h1>
               <p className="text-center">
                 Lorem ipsum dolor sit amet consectetur adipisicing elit.
                 Corrupti, qui!
