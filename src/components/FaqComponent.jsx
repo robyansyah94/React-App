@@ -9,7 +9,7 @@ const FaqComponent = () => {
       <Container>
         <Row>
           <Col>
-            <h2 className="text-center fw-bold">
+            <h2 className="text-center fw-bold animate__animated animate__fadeInUp animate__delay-1s">
               Pertanyaan Yang Sering Ditanyakan
             </h2>
           </Col>

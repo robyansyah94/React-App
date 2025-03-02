@@ -8,8 +8,8 @@ const SyaratKetentuanPage = () => {
         <Container>
           <Row>
             <Col>
-              <h1 className="fw-bold text-center mb-2">Syarat & Ketentuan</h1>
-              <p className="text-center">
+              <h1 className="fw-bold text-center mb-2 animate__animated animate__fadeInUp animate__delay-1s">Syarat & Ketentuan</h1>
+              <p className="text-center animate__animated animate__fadeInUp animate__delay-1s">
                 Lorem ipsum dolor sit, amet consectetur adipisicing elit.
               </p>
             </Col>
